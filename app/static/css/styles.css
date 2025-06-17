@@ -3,18 +3,15 @@
 =====================================================*/
 
 
-/* ABOUT PAGE -------------------------------------------- */
+/* TASKS -------------------------------------------- */
 
-#tech-stack {
-    display: flex;
-    gap: 1rem;
-    align-items: flex-start;
+.task {
+    color: var(--pico-color-red-400);
 }
 
-#tech-stack article {
-    flex: 1;
+.task .priority {
+    font-size: 3em;
 }
-
 
 /* MESSAGES -------------------------------------------- */
 
